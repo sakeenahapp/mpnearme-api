@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mpnearme-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "mpnearme-template-db",
+			"database_id": "5944ad0f-5df9-41e3-9e19-4a880454f4f1"
+		}
+	]
+}
